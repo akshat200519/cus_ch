@@ -1,5 +1,5 @@
 # cus_ch
-Telco Customer Churn Analysis
+Telco Customer Churn Analysis professional
 
 
 Building a Telco Customer Churn Analysis model that comprises of mainly 5 steps:
